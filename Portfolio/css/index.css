@@ -1,0 +1,54 @@
+body  {
+    /* background-color: darkcyan; */
+    text-align: center;
+    margin: 0px;
+    
+}
+div {
+background-color: darksalmon;
+margin:0px;
+
+
+
+}
+h1 {
+    margin: 50px auto 0 auto;
+   
+    font-family: 'Sacramento';
+    font-size: 4rem;
+    line-height: 2;
+}
+h2 {
+    /* margin-top: 0; */
+    /* padding: 10px; */
+   font-family: cursive;
+    font-size: 2.25rem;
+    color:darkcyan;
+    margin: 0px;
+    font-weight: normal;
+ 
+}
+.top{
+    padding-top: 100px;
+    position: relative;
+}
+.middle{
+  
+}
+.bottom {
+   
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+     bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top:50px;
+}
+.bottom-container a{
+    color: #11999E;
+}
+
